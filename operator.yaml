@@ -1,0 +1,11 @@
+operator:
+    address: ""
+    earnings_receiver_address: ""
+    delegation_approver_address: ""
+    staker_opt_out_window_blocks: 0
+    metadata_url: ""
+el_delegation_manager_address: ""
+eth_rpc_url: ""
+private_key_store_path: ""
+signer_type: ""
+chain_id: 0
